@@ -1,2 +1,2 @@
 # Firstproject
-This is myh Firstproject on git
+This is my Firstproject on git
